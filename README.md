@@ -2,11 +2,20 @@
 _p195_
 - 6 points
 - +1 par scénar (~2 scéances).
-## Déjà "acquis", justifiable ou obligatoire
+
+## Actuel
+### Déjà "acquis", justifiable ou obligatoire
 - 2 points à dépenser dans Viandis
 - 1 points gratuit dans rempart (Thx Mara)
 - 1 points gratuit dans Status (Thx Villon)
 - 1 points gratuit dans sceau de protection(goule) si Refuge (Thx Norma)
+
+### Proposition (Amelia, Mara, MJean, Norma)
+- Refuge à 2:
+  - Un immeuble en copropriété avec plusieurs appartements (Pour 4, Norma)
+  - Amelia & Nistra sont suffisament fortunée pour justifier l'achat d'un immeuble entier.
+  - Les points de coterie peuvent servir à acheter des améliorations de refuge pour l'immeuble.
+  - Les PJs qui habitent le refuge peuvent dépenser de leur xp personnel pour ajouter des améliorations de refuge à leur appart individuel (3 d'xp de pj = 1 point d'avantage).
 
 ## Domaine p196
 ### Viandis
