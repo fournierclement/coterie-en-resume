@@ -72,7 +72,7 @@ Tailles du domaine et diversité des proies
 - 3: grand/sûr/discret
 
 - Bonus:
-  - Armurie dissimulé: chaque point améliore l'armement
+  - Armurerie dissimulé: chaque point améliore l'armement
   - Veilleurs: 1point donne 4 garde + 1 chef (mortels p185)
   - Bibliothèque: 1point donne +1dé sur le monde des tenebres/ville. Max 1 dans les petits refuges.
   - Localisation: Localisation avantageuse pour un type de jet (+2dés)
