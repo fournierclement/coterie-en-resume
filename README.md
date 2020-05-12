@@ -23,7 +23,7 @@ Tailles du domaine et diversité des proies
   - 1 grand groupe de site donné
 
 ### Rempart
-- Chaque point augmente la difficulté des tests pour enqueter/porter prejudice à la cotterie
+- Chaque point augmente la difficulté des tests pour enqueter/porter prejudice à la coterie
 - Ne s'applique pas aux refuges
 
 ### Servage
