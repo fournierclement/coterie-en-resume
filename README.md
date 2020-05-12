@@ -4,7 +4,7 @@ _p195_
 - A discuter avec MJean la progression (Proposion vue sur internet: 1pt d'xp "de coterie" par personnage par scénar)
 ## Domaine p196
 ### Viandis
-Tailles et diversité des proies
+Tailles du domaine et diversité des proies
 - 2 points "obligatoire"
   - 2 à 4 patés d'immeubles
   - 1 parcs + accès
