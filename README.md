@@ -34,7 +34,7 @@ Tailles du domaine et diversité des proies
 
 ### Allié/Ennemis (mortels) p184
 - Axe Efficacité
-  - 1: faible, inutil même en combat
+  - 1: faible mortel, inutile en combat
   - ...
   - 4: mortel doué, mage ou groupe bien armé
 - Axe fiabilité 
