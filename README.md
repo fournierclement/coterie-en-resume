@@ -1,7 +1,7 @@
 # coterie-en-resume
 _p195_
 - 6 points
-- A discuter avec MJean la progression (Proposion vue sur internet: 1pt d'xp "de coterie" par personnage par scénar)
+- A discuter avec MJean la progression (Proposion vue sur internet: "1pt d'xp de coterie" =/= "pt de coterie" par personnage par scénar,)
 ## Domaine p196
 ### Viandis
 Tailles du domaine et diversité des proies
