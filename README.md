@@ -26,6 +26,8 @@ Tailles du domaine et diversité des proies
 - Chaque point augmente la difficulté des tests pour enqueter/porter prejudice à la coterie
 - Ne s'applique pas aux refuges
 
+- Mara nous a dégoté un point de rempart
+
 ### Servage
 - Chaque point ajoute un dé aux jets pour la fouille et l'interaction avec les mortels du domaine.
 - Ne s'applique pas à la chasse/aggression.
