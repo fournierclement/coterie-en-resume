@@ -2,6 +2,12 @@
 _p195_
 - 6 points
 - +1 par scénar (~2 scéances).
+## Déjà "acquis", justifiable ou obligatoire
+- 2 points à dépenser dans Viandis
+- 1 points gratuit dans rempart (Thx Mara)
+- 1 points gratuit dans Status (Thx Villon)
+- 1 points gratuit dans sceau de protection(goule) si Refuge (Thx Norma)
+
 ## Domaine p196
 ### Viandis
 Tailles du domaine et diversité des proies
@@ -26,8 +32,6 @@ Tailles du domaine et diversité des proies
 - Chaque point augmente la difficulté des tests pour enqueter/porter prejudice à la coterie
 - Ne s'applique pas aux refuges
 
-- Mara nous a dégoté un point de rempart
-
 ### Servage
 - Chaque point ajoute un dé aux jets pour la fouille et l'interaction avec les mortels du domaine.
 - Ne s'applique pas à la chasse/aggression.
@@ -49,7 +53,7 @@ Tailles du domaine et diversité des proies
 - 2: personne spécialisé/ressource 2
 - 3: personne experte/influente/ressource 4
 
-### Influence p186
+### Influence p186 (mortels)
 - 1: Relations/Respecté
 - ...
 - 5: Dominant/suivit & servit.
@@ -98,7 +102,7 @@ Tailles du domaine et diversité des proies
 - 2: Serviteur dévoué, mortel moyen
 - 3: Serviteur compétent, mortel doué
 
-### Statut p194
+### Statut p194 (vampirique)
 - 1: Connu (nouveau né présenté à la cour)
 - ...
 - 5: Sommité (place au conseil vampirique)
