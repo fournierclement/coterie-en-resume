@@ -16,6 +16,10 @@ _p195_
   - Amelia & Nistra sont suffisament fortunée pour justifier l'achat d'un immeuble entier.
   - Les points de coterie peuvent servir à acheter des améliorations de refuge pour l'immeuble.
   - Les PJs qui habitent le refuge peuvent dépenser de leur xp personnel pour ajouter des améliorations de refuge à leur appart individuel (3 d'xp de pj = 1 point d'avantage).
+- Problème: Immeuble entier ~4millions €,
+  - Soit perte seche de points de ressource pour les joueurs
+  - Soit dette majeure chez Villon
+  - Soit pas un immeuble entier
   
 ### Proposition 
   - Nox & Norma: Evacuation pour pas avoir à passer par la grande porte et garder notre "base d'opération" discrete
