@@ -12,7 +12,7 @@ _p195_
 
 ### Proposition (Amelia, Mara, MJean, Norma)
 - Refuge à 2:
-  - Un immeuble en copropriété avec plusieurs appartements (Pour 4, Norma)
+  - Un immeuble en copropriété avec plusieurs appartements (Pour 4, Norma et Nox ont déjà leur refuge)
   - Amelia & Nistra sont suffisament fortunée pour justifier l'achat d'un immeuble entier.
   - Les points de coterie peuvent servir à acheter des améliorations de refuge pour l'immeuble.
   - Les PJs qui habitent le refuge peuvent dépenser de leur xp personnel pour ajouter des améliorations de refuge à leur appart individuel (3 d'xp de pj = 1 point d'avantage).
