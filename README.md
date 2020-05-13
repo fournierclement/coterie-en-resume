@@ -8,14 +8,16 @@ _p195_
 - 2 points à dépenser dans Viandis
 - 1 points gratuit dans rempart (Thx Mara)
 - 1 points gratuit dans Status (Thx Villon)
-- 1 points gratuit dans sceau de protection(goule) si Refuge (Thx Norma)
+- 1 points gratuit dans sceau de protection(goule) si Refuge (Thx Norma & Luis)
 
-### Proposition (Amelia, Mara, MJean, Norma)
+### Proposition Validé
 - Refuge à 2:
   - Un immeuble en copropriété avec plusieurs appartements (Pour 4, Norma et Nox ont déjà leur refuge)
   - Amelia & Nistra sont suffisament fortunée pour justifier l'achat d'un immeuble entier.
   - Les points de coterie peuvent servir à acheter des améliorations de refuge pour l'immeuble.
   - Les PJs qui habitent le refuge peuvent dépenser de leur xp personnel pour ajouter des améliorations de refuge à leur appart individuel (3 d'xp de pj = 1 point d'avantage).
+  
+### Proposition 
   - Nox & Norma: Evacuation pour pas avoir à passer par la grande porte et garder notre "base d'opération" discrete
 
 ## Domaine p196
